@@ -8,6 +8,9 @@
 [![LinkedIn Account](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eddy-bousksou/)
 [![Website](https://img.shields.io/badge/Website-011F35?style=for-the-badge)](http://e.bousk.free.fr)
 
+[![Website](https://img.shields.io/badge/learning%20purpose%20website-Sym_BnB-011F35?style=for-the-badge)](https://sym-ebnb.herokuapp.com)
+[![Website](https://img.shields.io/badge/learning%20purpose%20website-Sym_Ecommerce-011F35?style=for-the-badge)](https://sym-ecommerce.herokuapp.com)
+
 
 ## Stats
 
