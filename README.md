@@ -1,8 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently looking for a company to get my first job
-- 🌱 I’m currently learning NodeJS, Express, MongoDB, React
 - 😄 I enjoyed: Symfony, twig
-- 📫 How to reach me: e.bousk@gmail.com
+- 📫 How to reach me: e.bousk@etik.com
 - ⚡ Website: e.bousk.free.fr
 
 [![LinkedIn Account](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eddy-bousksou/)
